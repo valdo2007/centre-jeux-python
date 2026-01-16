@@ -1,0 +1,12 @@
+{
+    "nom": "VAZ",
+    "date_creation": "2026-01-16",
+    "score_total": 0,
+    "succes": [],
+    "parties": [],
+    "stats": {
+        "devinette": 0,
+        "calcul": 0,
+        "pendu": 0
+    }
+}
